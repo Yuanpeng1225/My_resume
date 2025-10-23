@@ -1,4 +1,3 @@
-# My_resume
 ## About Me
 
 Hi! I’m Yuanpeng Yang, a current M.S. in Business Analytics student at Brandeis University with a background in financial engineering and business management. I became deeply interested in data analytics during my graduate studies and professional experience, where I saw firsthand how data-driven insights can significantly improve business decision-making.
